@@ -342,7 +342,7 @@ a.btn-custom {
   visibility: visible;
 }
 .btn-custom.btn-color:after {
-  background: #303f9f;
+  background: #ff7800;
 }
 .btn-custom.btn-color:hover:after {
   opacity: 0.4;
@@ -1199,7 +1199,7 @@ body.section-switching.up .animation-block {
   display: block;
   float: left;
   font-size: 52px;
-  color: #303f9f;
+  color: #ff7800;
 }
 .contact-info > p {
   float: left;
